@@ -1,5 +1,7 @@
 # Boilerplate Template
 
+> This template is based on the "Now UI Dashboard". https://www.creative-tim.com/product/now-ui-dashboard
+
 1. You must copy the folder named `boilerplate` to your Shinobi directory in the `web/templates` folder. If you do not have a templates folder then you must create one.
 
 2. Create the `renderPaths` object inside `conf.json`. If it already exists then remove the old one and place this one.
@@ -46,4 +48,8 @@
       "handler" : "templates/boilerplate/handler"
   }
 }
+```
+4. Restart Shinobi
+```
+pm2 restart camera
 ```
