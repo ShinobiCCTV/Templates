@@ -2,6 +2,9 @@
 
 > This template is based on the "Now UI Dashboard". https://www.creative-tim.com/product/now-ui-dashboard
 
+<img src="https://s3.amazonaws.com/creativetim_bucket/products/75/original/opt_nud_thumbnail.jpg?1518795544">
+*Image From Creative-Tim*
+
 1. You must copy the folder named `boilerplate` to your Shinobi directory in the `web/templates` folder. If you do not have a templates folder then you must create one.
 
 2. Create the `renderPaths` object inside `conf.json`. If it already exists then remove the old one and place this one.
